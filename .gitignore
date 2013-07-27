@@ -1,3 +1,4 @@
+node_modules
 /profiler.node
 build/*
 .lock-wscript

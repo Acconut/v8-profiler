@@ -1,4 +1,4 @@
-var binding = require("./profiler");
+var binding = require("bindings")("./profiler");
 
 function Snapshot() {}
 
